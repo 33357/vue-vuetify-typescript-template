@@ -1,0 +1,8 @@
+// TODO 等vuetify新版本修复bug后移除
+//fix bug
+.v-item-group.v-bottom-navigation .v-btn.v-size--default {
+  height: inherit;
+}
+.v-app-bar.v-app-bar--fixed {
+  position: fixed!important;
+}
