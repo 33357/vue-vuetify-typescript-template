@@ -29,7 +29,7 @@
         </v-list-item-avatar>
 
         <v-list-item-title class="title">
-          BEETLE_DATA
+          URI_CHEN
         </v-list-item-title>
       </v-list-item>
 
