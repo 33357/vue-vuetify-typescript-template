@@ -2,7 +2,7 @@ import 'material-design-icons-iconfont/dist/material-design-icons.css'
 import Vue from 'vue'
 import { SettingsModule } from '@/store/modules/settings'
 import Vuetify from 'vuetify/lib'
-import zhHans from 'vuetify/src/locale/zh-Hans'
+import zh from 'vuetify/src/locale/zh-Hans'
 import en from 'vuetify/src/locale/en'
 
 interface Itheme {
@@ -37,8 +37,8 @@ export default new Vuetify({
     }
   },
   lang: {
-    locales: { zhHans, en },
-    current: 'zh-Hans'
+    locales: { zh, en },
+    current: 'zh'
   },
   icons: {
     iconfont: 'md'
