@@ -44,7 +44,7 @@
     "vuex-class": "^0.3.2",
     "vuex-module-decorators": "^0.16.1",
     "vuex-persistedstate": "^2.7.1",
-    "xlsx": "^0.15.5"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",
